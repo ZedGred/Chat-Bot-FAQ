@@ -1,4 +1,3 @@
-Copy code
 nltk==3.8.1
 scikit-learn==1.2.2
 fastapi==0.95.1
