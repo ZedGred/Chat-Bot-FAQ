@@ -1,3 +1,4 @@
+Copy code
 nltk==3.8.1
 scikit-learn==1.2.2
 fastapi==0.95.1
@@ -5,3 +6,4 @@ pydantic==1.10.8
 uvicorn==0.22.0
 joblib==1.2.0
 numpy==1.22.0
+scipy==1.10.1  
