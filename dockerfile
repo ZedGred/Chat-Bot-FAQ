@@ -1,5 +1,5 @@
 # Gunakan gambar dasar Python
-FROM python:3.9-slim
+FROM python:3.11-slim
 
 # Set direktori kerja di dalam kontainer
 WORKDIR /app
